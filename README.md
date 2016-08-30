@@ -31,4 +31,4 @@ IKAO的接口主要适用于配合我们的软件接口使用，调用此接口�
 
 ##红外收集
 
-[收集红外请点这里](www.irdaservice.cn)
+[收集红外请点这里](http://www.irdaservice.cn/)
